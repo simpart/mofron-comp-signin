@@ -1,0 +1,32 @@
+{
+  "name": "mofron-comp-signin",
+  "version": "0.0.1",
+  "description": "signin component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mofron-comp-text" : "",
+    "mofron-layout-hrzcenter": "",
+    "mofron-layout-margin": "",
+    "mofron-event-click": "",
+    "mofron-comp-errmsg": "",
+    "mofron-comp-input": "",
+    "mofron-comp-button": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-signin.git"
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-signin/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-signin#readme"
+}
